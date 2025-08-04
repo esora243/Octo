@@ -75,14 +75,14 @@
                 <span class="gradient-text">最大限に</span>引き出す。
             </h1>
             <p class="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto mb-8">
-                オクトエナジーは、AIがあなたの太陽光発電の売電収益を最大化する「パーソナル・エネルギー・トレーディングプラットフォーム」。面倒な売電先選びから解放され、スマートなエネルギー運用を始めましょう。
+                オクトエナジーは、AIがあなたの太陽光発電の売電収益を最大化する「パーソナル・エネルギー・トレーディングプラットフォーム」を提供します。面倒な売電先選びから解放され、スマートなエネルギー運用を始めましょう。
             </p>
             <a href="#pricing" class="bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition-transform transform hover:scale-105 inline-block">
                 料金プランを見る
             </a>
             <div class="mt-8 text-cyan-300 flex items-center justify-center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                <span>まずは九州・山口県エリアからサービス開始</span>
+                <span>まずは九州・山口県エリアからサービスを拡大中です</span>
             </div>
         </section>
 
@@ -118,7 +118,7 @@
                         その悩み、<span class="gradient-text">Octo Energy</span>が解決します
                     </h2>
                     <p class="text-gray-300 max-w-3xl mx-auto">
-                        私たちは、オクトソーラーシステム（特許申請中）を使いあなたの利益を最大化するインテリジェントなシステムを提供します。
+                        私たちは、オクトソーラーシステム（特許申請中）を使いあなたの利益を最大化するAIを提供します。（詳細はお問い合わせください）
                     </p>
                 </div>
                 <div class="relative max-w-4xl mx-auto">
@@ -135,7 +135,7 @@
             <div class="container mx-auto px-6">
                 <div class="text-center mb-12">
                     <h2 class="text-3xl md:text-4xl font-bold mb-4">主な機能</h2>
-                    <p class="text-gray-400 max-w-2xl mx-auto">専門知識は不要。3つのステップで、あなたのエネルギー資産運用を最適化します。</p>
+                    <p class="text-gray-400 max-w-2xl mx-auto">専門知識は不要。AIがあなたのエネルギー資産運用を最適化します。</p>
                 </div>
                 <div class="grid md:grid-cols-3 gap-8">
                     <!-- Feature 1: Visualize -->
