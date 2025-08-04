@@ -160,7 +160,7 @@
                         以下の `src` の部分を、お客様がお持ちの画像のURL、またはファイル名に書き換えてください。
                         例： src="https://example.com/your-image.png"
                     -->
-                    <img src="https://placehold.co/1200x750/e0f2f1/0d9488?text=AI搭載ダッシュボードの画面イメージ" 
+                    <img src="キャプチャ.PNG" 
                          alt="AIが最適な売電先を提案するダッシュボード画面"
                          class="rounded-2xl shadow-2xl w-full border-4 border-white">
                 </div>
