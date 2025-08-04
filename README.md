@@ -104,7 +104,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-400 mr-3"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
                             どの電力会社を選べば良いかわからない
                         </h3>
-                        <p class="text-gray-400">無数の新電力が様々なプランを提供しており、最適な選択肢を個人で見つけるのは至難の業です。</p>
+                        <p class="text-gray-400">買取先の新電力が様々なプランを提供しており、最適な選択肢を個人で見つけるのは骨が折れます。</p>
                     </div>
                 </div>
             </div>
@@ -118,13 +118,13 @@
                         その悩み、<span class="gradient-text">Octo Energy</span>が解決します
                     </h2>
                     <p class="text-gray-300 max-w-3xl mx-auto">
-                        私たちは、複雑なエネルギー市場の情報をシンプルに変換し、あなたの利益を最大化するインテリジェントなシステムを提供します。
+                        私たちは、オクトソーラーシステム（特許申請中）を使いあなたの利益を最大化するインテリジェントなシステムを提供します。
                     </p>
                 </div>
                 <div class="relative max-w-4xl mx-auto">
                     <div class="absolute w-full h-full bg-cyan-500/10 rounded-3xl blur-2xl -z-10 transform -rotate-3"></div>
                     <img src="キャプチャ.PNG" 
-                         alt="Octo Energyのダッシュボード画面キャプチャ"
+                         alt="キャプチャ.PNG"
                          class="rounded-2xl shadow-2xl shadow-cyan-500/20 w-full">
                 </div>
             </div>
