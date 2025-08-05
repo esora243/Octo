@@ -161,7 +161,7 @@
                         例： src="https://example.com/your-image.png"
                     -->
                     <img src="キャプチャ.PNG" 
-                         alt="AIが最適な売電先を提案するダッシュボード画面"
+                         alt="キャプチャ.PNG"
                          class="rounded-2xl shadow-2xl w-full border-4 border-white">
                 </div>
             </div>
