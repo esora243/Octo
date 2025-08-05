@@ -160,8 +160,8 @@
                         以下の `src` の部分を、お客様がお持ちの画像のURL、またはファイル名に書き換えてください。
                         例： src="https://example.com/your-image.png"
                     -->
-                    <img src="キャプチャ.PNG" 
-                         alt="キャプチャ.PNG"
+                    <img src="images (1).jpg" 
+                         alt="images (1).jpg"
                          class="rounded-2xl shadow-2xl w-full border-4 border-white">
                 </div>
             </div>
